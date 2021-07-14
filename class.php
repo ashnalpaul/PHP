@@ -1,5 +1,5 @@
 <?php
-class Vehicle
+class fruits
 {
     public $name="Apple";
     public $color="Red";
